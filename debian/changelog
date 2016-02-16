@@ -1,3 +1,9 @@
+python-imaplib2 (2.53-1~14.04~ppa1) trusty; urgency=medium
+
+  * Build for trusty.
+
+ -- Chris Weyl <cweyl@alumni.drew.edu>  Tue, 16 Feb 2016 14:44:33 -0600
+
 python-imaplib2 (2.53-1) unstable; urgency=medium
 
   * New upstream release (Closes: #808029). Thanks IliasTsitsimpis.
